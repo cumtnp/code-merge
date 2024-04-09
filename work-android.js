@@ -58,6 +58,6 @@ function convertRepoToText(repoPath, outputFile) {
 }
 
 // 示例用法
-const repoPath = "/Users/liangding/program/temp/HookNotification";
+const repoPath = "~/program/temp/HookNotification";
 const outputFile = "HookNotification-android.md";
 convertRepoToText(repoPath, outputFile);

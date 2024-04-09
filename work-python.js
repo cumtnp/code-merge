@@ -54,6 +54,6 @@ function convertRepoToText(repoPath, outputFile) {
 }
 
 // 示例用法
-const repoPath = "/Users/liangding/program/open-source/crewai-experiments";
+const repoPath = "program/open-source/crewai-experiments";
 const outputFile = "crewai-experiments.md";
 convertRepoToText(repoPath, outputFile);

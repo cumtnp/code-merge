@@ -45,6 +45,6 @@ function convertRepoToText(repoPath, outputFile) {
 }
 
 // 示例用法
-const repoPath = "/Users/liangding/program/gitee/MicroCommunity";
+const repoPath = "~/program/gitee/MicroCommunity";
 const outputFile = "Java-MicroCommunity.md";
 convertRepoToText(repoPath, outputFile);

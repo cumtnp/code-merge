@@ -62,6 +62,6 @@ function convertRepoToText(repoPath, outputFile) {
 }
 
 // 示例用法
-const repoPath = "/Users/liangding/program/temp/nats-server/server";
+const repoPath = "~/program/temp/nats-server/server";
 const outputFile = "nats-server.md";
 convertRepoToText(repoPath, outputFile);

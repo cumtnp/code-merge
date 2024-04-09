@@ -41,6 +41,6 @@ function convertRepoToText(repoPath, outputFile) {
 }
 
 // 示例用法
-const repoPath = "/Users/liangding/program/AI-project/NextOCR/NextOCR/Feature";
+const repoPath = "~/program/AI-project/NextOCR/NextOCR/Feature";
 const outputFile = "nextOCR-Feature.md";
 convertRepoToText(repoPath, outputFile);
